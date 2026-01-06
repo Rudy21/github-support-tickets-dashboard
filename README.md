@@ -88,14 +88,5 @@ The dashboard is structured to mirror **support team workflows**:
 
 ---
 
-## 🚀 Future Enhancements
-- SLA threshold benchmarking
-- Agent-level performance dashboards
-- Automated data refresh scheduling
-- Drill-through to ticket-level investigation
-- Alerting for backlog or SLA risk conditions
-
----
-
 ## 📬 Feedback & Contributions
 Suggestions, feedback, and improvements are welcome.
