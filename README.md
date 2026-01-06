@@ -90,7 +90,7 @@ The dashboard is structured to mirror **support team workflows**:
 
 ## 📷 Dashboard Preview
 
-![GitHub Support Tickets Dashboard](C:\Users\HP\Desktop\rudra analysis\Power BI\Gupport Operations using github issues\Dashboard Image.png)
+<img width="1209" height="673" alt="image" src="https://github.com/user-attachments/assets/f6faf2be-5b64-4e5b-88ad-17c6c1ca6b28" />
 
 
 
