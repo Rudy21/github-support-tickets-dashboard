@@ -90,8 +90,10 @@ The dashboard is structured to mirror **support team workflows**:
 
 ## 📷 Dashboard Preview
 
+
 <img width="1209" height="673" alt="image" src="https://github.com/user-attachments/assets/f6faf2be-5b64-4e5b-88ad-17c6c1ca6b28" />
 
+---
 
 
 ## 📬 Feedback & Contributions
